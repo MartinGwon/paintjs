@@ -40,7 +40,6 @@ body {
 
 .controls__btns button {
   all: unset;
-  cursor: pointer;
   background-color: white;
   padding: 5px 0px;
   width: 80px;
@@ -51,6 +50,7 @@ body {
   text-transform: uppercase;
   font-weight: 800;
   font-size: 12px;
+  cursor: pointer;
 }
 
 .controls__btns button:first-child {
